@@ -10,6 +10,7 @@ import java.sql.SQLException;
 
 public class ConexionBBDD 
 {
+	//Comentario prueba
 	String url, usuario, contraseña;
 	static final String archivo ="D:\\PROGRAMACIÓN\\conexion_crud4.txt";
 	
