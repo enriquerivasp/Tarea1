@@ -6,5 +6,12 @@ public class CRUD5 {
 		// TODO Auto-generated method stub
 
 	}
-
-}
+	/*
+	*prueba repositorio colaborativo
+	*/
+	
+	public void hola()
+	{
+		System.out.println("Hola");
+	}
+}		
